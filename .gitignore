@@ -1,0 +1,5 @@
+*.idea
+*.lock
+*.py[doc]
+*.log
+/resource
